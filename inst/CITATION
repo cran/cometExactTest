@@ -1,0 +1,11 @@
+note <- sprintf("Preprint. Also published at RECOMB 2015. R package version %s.", meta$Version)
+
+bibentry(bibtype = "Manual",
+         title = "CoMEt: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer",
+         author = c(person("Mark", "Leiserson"),
+                    person("Hsin-Ta", "Wu"),
+                    person("Fabio", "Vandin"),
+                    person("Benjamin", "Raphael")),
+         year = 2015,
+         note = note,
+         url = "http://arxiv.org/abs/1503.08224")

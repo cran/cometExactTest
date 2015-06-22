@@ -1,0 +1,2 @@
+useDynLib(cometExactTest)
+export(comet_exact_test)
