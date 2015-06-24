@@ -1,4 +1,4 @@
-note <- sprintf("Preprint. Also published at RECOMB 2015. R package version %s.", meta$Version)
+note <- sprintf("M.L. and H-T.W. contributed equally. Preprint. Also published at RECOMB 2015. R package version %s.", meta$Version)
 
 bibentry(bibtype = "Manual",
          title = "CoMEt: A Statistical Approach to Identify Combinations of Mutually Exclusive Alterations in Cancer",

@@ -1,6 +1,6 @@
 Package: cometExactTest
-Version: 0.1
-Date: 2015-06-22
+Version: 0.1.2
+Date: 2015-06-24
 Title: Exact Test from the Combinations of Mutually Exclusive
         Alterations (CoMEt) Algorithm
 Authors@R: c(person("Max", "Leiserson", role = c("aut", "cre"),
@@ -24,6 +24,6 @@ License: MIT + file LICENSE
 URL: http://compbio.cs.brown.edu/projects/comet,
         http://www.r-project.org
 NeedsCompilation: yes
-Packaged: 2015-06-22 14:10:07 UTC; mdml
+Packaged: 2015-06-24 15:19:16 UTC; mdml
 Repository: CRAN
-Date/Publication: 2015-06-22 19:53:20
+Date/Publication: 2015-06-24 18:22:56
