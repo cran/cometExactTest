@@ -1,2 +1,6 @@
 useDynLib(cometExactTest)
 export(comet_exact_test)
+importFrom("grDevices", "dev.off", "pdf")
+importFrom("graphics", "axis", "plot", "rect")
+importFrom("utils", "tail")
+import(dplyr)
