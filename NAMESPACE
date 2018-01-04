@@ -1,4 +1,4 @@
-useDynLib(cometExactTest)
+useDynLib(cometExactTest, .registration = TRUE)
 export(comet_exact_test)
 importFrom("grDevices", "dev.off", "pdf")
 importFrom("graphics", "axis", "plot", "rect")

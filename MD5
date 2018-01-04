@@ -1,9 +1,10 @@
-a1aef297d54a1606e5b8f1fd9fd6fd47 *DESCRIPTION
-6b464fe5d1bd3dcc079443a9966ba8f2 *LICENSE
-01f48b33c7d8ca63fcfdbe3537f9e7b8 *NAMESPACE
-d51c3d29c93e3449fa640882bafd505a *R/cometexacttest.R
+3681744437dd43d2a452430f0e72b695 *DESCRIPTION
+cbadcbcbc6e2f000c9be39f7b4cd06f6 *LICENSE
+ee4a9958aa7461a98e17d72d9efa0c4a *NAMESPACE
+39a793c60a8759845b6a30b1f8f4774c *R/cometexacttest.R
 e103fa32a5af2fb62b928f99122dcad8 *inst/CITATION
 e17e60e5bb6c1dbe21216ee80ac02000 *man/comet.Rd
 231a832bb08b218eccfc9408503fed8e *man/figures/tablex.pdf
 102bf8fd31737bfe463c71b6985edcc9 *man/figures/tablex.png
-0d4d967146eb97cbefe30b611bf324c0 *src/cometexacttest.c
+99c55c0892a43bfa3f2d7ca4faa7fa27 *src/cometexacttest.c
+abe2c1c2f54b1b34215554d4d6045d97 *src/cometexacttest_init.c
